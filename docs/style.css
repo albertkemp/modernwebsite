@@ -1,0 +1,22 @@
+.main, 
+.sidebar {
+    min-height: 100%;
+    color: black;
+} 
+main p {font-family: 'Merriweather', serif;} 
+main h2 {font-family: 'Lato', sans-serif;}
+.orange{background-color: orange;} 
+.orange:hover, .green:hover{border: dashed; opacity: 70%;}
+.green{
+    background-color: green;
+}
+.orange, .green {
+    color: black;
+    padding: 3%;
+    border: 2px solid black;
+} .bodyhtml{margin: auto; width: 50%; background-color: white; color: black;}
+body{background-color: rgb(170, 170, 170);}
+h1{font-family: 'Montserrat', sans-serif; font-size: 30%; text-decoration: underline; font-size: 100px;}  
+main{position: absolute; right: 0;}
+.sidebar{min-width: 30%; background-color: yellowgreen; position: absolute; left: 0; height: 100%;}
+h2{font-family: 'Lato', sans-serif;}
